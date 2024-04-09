@@ -13,6 +13,6 @@ public class Hulk {
             else{System.out.print("I love that ");}
         }
     }
-        sc.close();
+            sc.close();
     }
 }
