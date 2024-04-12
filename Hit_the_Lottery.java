@@ -9,5 +9,6 @@ public class Hit_the_Lottery {
         if(n>=5){ denominations+=(n/5); n-=(n/5)*5; }
         if(n>=1){ denominations+=(n/1); n-=(n/1)*1; }
         System.out.println(denominations);
+        sc.close();
     }
 }
