@@ -8,6 +8,6 @@ public class Soft_Drinking {
         int three = p/(np);
         int ans = Math.min(one,Math.min(two, three))/n;
         System.out.println(ans);
-        sc.close();
+        sc.close(); 
     }
 }
